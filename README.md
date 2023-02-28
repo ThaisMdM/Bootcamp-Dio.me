@@ -1,2 +1,2 @@
 # Bootcamp-Dio.me
-HDesafio de projeto sobre Git/Github
+Desafio - Criando seu primeiro repositório no GitHub para compartilhar seu progresso
